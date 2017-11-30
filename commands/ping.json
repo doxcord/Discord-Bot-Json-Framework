@@ -1,5 +1,5 @@
 {
-  "ping": { /* Name of your command */
-    "message": "pong!" /* Message of your command */
+  "ping": {
+    "message": "pong!" 
   }
 }
